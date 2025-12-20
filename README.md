@@ -35,6 +35,8 @@ I used a 3-step prompt sequence to ensure the output remained high-quality and c
   
 ## Final Thumbnail
 The thumbnail was engineered for high Click-Through Rate (CTR). It utilizes high-contrast yellow text layered over an AI-generated neon-glow background, creating a sense of urgency and professional polish.
+
+
 ![Final Video Thumbnail](Thumbnail.png)
 
 
