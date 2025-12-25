@@ -41,5 +41,4 @@ The thumbnail was engineered for high Click-Through Rate (CTR). It utilizes high
 
 
 ### 🔗 Project Links
-* **YouTube Video:** [INSERT YOUR YOUTUBE LINK HERE]
-* **GitHub Repository:** [INSERT YOUR REPOSITORY LINK HERE]
+**DRIVE LINK :** Watch the full 5:13 video here(https://drive.google.com/file/d/15xqlikDmjK_l-r1o9Kufbj4CK61zvlFE/view?usp=drive_link)
