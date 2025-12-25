@@ -23,7 +23,7 @@ I used a 3-step prompt sequence to ensure the output remained high-quality and c
 | **Visual Assets** | **P-3** | Created a high-impact DALL·E 3 prompt for a realistic, urgent thumbnail image. |
 
 ## Final Deliverables
-* **Video Length:** 4 Minutes 20 Seconds
+* **Video Length:** 5 Minutes 13 Seconds
 * **Topic:** 5 AI Tools You Must Learn NOW
 * **Key Features:** Automated AI Voiceover, Keyword-matched B-roll, and Dynamic Captions.
 
